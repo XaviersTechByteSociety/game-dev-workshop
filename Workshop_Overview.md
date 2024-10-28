@@ -10,13 +10,13 @@ In this workshop, we will cover:
 2. **JavaScript** fundamentals and game logic.
 3. Building your very own **Flappy Bird** clone from scratch.
 
-### Schedule & Sessions
+### [Schedule & Sessions](./Session_Plan.md)
 | Day | Topic                | Duration |
 | --- | --------------------- | -------- |
 | 1   | HTML & CSS Basics     | 2 hours  |
 | 2   | JavaScript Basics     | 2 hours  |
-| 3   | JavaScript Game Logic | 2 hours  |
-| 4   | Version Control with Git & GitHub | 2 hours |
+| 3   | Version Control with Git & GitHub | 2 hours |
+| 4   | JavaScript Game Logic | 2 hours  |
 
 ---
 
@@ -36,4 +36,4 @@ Prepare for a fun, engaging experience that will leave you with a game project t
 - **[Game Development Hackathon](./Game_Dev_Hackathon.md)**
 - **[Workshop Rules](./Workshop_Rules.md)**
 
-Happy coding and game building! 🕹
+Happy coding and game building!

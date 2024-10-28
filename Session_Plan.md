@@ -26,6 +26,6 @@ To ensure a smooth and engaging workshop experience, please review and adhere to
 | ------------------- | ------------------------------------------------------- | ---------- | ----------- |
 | **Development**     | [HTML](./Resources/HTML.md) & [CSS](./Resources/CSS.md) | 1          | 2 hours     |
 |                     | [JavaScript Basics](./Resources/JavaScript.md)          | 1          | 2 hours     |
-|                     | JavaScript Game Logic & Flappy Bird                     | 1          | 2 hours     |
-| **Version Control** | Git & GitHub                                            | 1          | 2 hours     |
+|                     | [Git & GitHub](./Version_Control_Session.md)            | 1          | 2 hours     |
+| **Version Control** | JavaScript Game Logic & Flappy Bird                     | 1          | 2 hours     |
 |                     | **Total Duration**                                      | **4 Days** | **8 hours** |
