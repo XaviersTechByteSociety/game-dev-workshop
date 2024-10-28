@@ -1,15 +1,3 @@
-# Who will attend
-1. Computer Department (BSc. CA & IT)
-2. XTS members
-3. Any Student of Xavier's College
-4. Students Enrolled in Any College (Charges Applicable)
-
-# Terms and Conditions
-0. A cup of Coffee or Tea
-1. Student ID Compulsory
-2. Referral ID
-3. Correct Name in Google Meet
-
 # Rules
 #### 1. **Be Punctual**
 
