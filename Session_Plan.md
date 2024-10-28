@@ -2,8 +2,8 @@
 
 ## Who Will Attend
 The workshop is open to:
-1. **Computer Department (BSc. CA & IT)** students.
-2. **XTS members** (Xavier’s Technical Society).
+1. **Computer Department** students.
+2. **XTS members** (Xavier’s TechByte Society).
 3. **Any student** of Xavier's College.
 4. **Students from other colleges** (charges apply).
 
