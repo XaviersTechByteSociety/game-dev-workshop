@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+    /* hsl = hue saturation luminance */
+    background-color: #1e1e1e;
+}
+
+/* h1 is the selector
+   color is the property
+   blue iss the value
+*/
